@@ -1,14 +1,10 @@
 [
   {"title":"movie", "url":"https://app.movie/", "country": "ALL"},
-  {"title": "樱花动漫", "url":"https://www.yhdmp.cc", "country": "CN"}, 
-  {"title": "4K影视", "url":"https://www.4kvm.com", "country": "ALL"},
+  {"title": "Anime", "url":"https://www.yhdmp.cc", "country": "CN"}, 
+  {"title": "4K Videos", "url":"https://www.4kvm.com", "country": "ALL"},
   {"title": "555", "url":"https://www.o8tv.com", "country": "CN"},
-  {"title": "剧嗨", "url":"https://www.juhi.cc", "country": "CN"},
   {"title": "HOHO TV", "url":"https://hoho.tv", "country": "CN"},
   {"title": "vidhub", "url":"https://vidhub.top", "country": "ALL"},
   {"title": "duboku", "url": "https://ca.duboku.fun/vodtype/2.html?v=1", "country": "ALL"},
-  {"title": "秋霞网", "url": "http://www.qiukwi.com", "country": "CN"},
-  {"title": "瓜子TV", "url":"https://guazitv.tv", "country": "CN"},
-  {"title": "netflix cn", "url":"https://yanetflix.com", "country": "CN"},
-  {"title":"影视工厂", "url":"https://www.ysgc.cc/", "country": "CN"}
+  {"title": "netflix cn", "url":"https://yanetflix.com", "country": "CN"}
 ]
